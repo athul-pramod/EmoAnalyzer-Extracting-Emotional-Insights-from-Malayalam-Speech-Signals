@@ -18,3 +18,5 @@ repetition).
 • Actor: The final two digits identify the actor (01-10; odd for male, even for female).
 
 This organization ensures clarity and efficiency in accessing and analyzing the data while adhering to GitHub's storage constraints.
+
+This dataset was created by me with the invaluable help of my friends and family, who contributed their voices for the audio samples. Each sample is a unique recording, reflecting the genuine emotions and efforts of the people closest to me. 
